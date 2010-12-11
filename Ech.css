@@ -1,0 +1,22 @@
+body {background-color:#DDF; background-image:url("bckgr.png"); background-repeat:repeat-x;background-position:top;color:black}
+h1 {text-align:center; color:#A31481; text-decoration:underline}
+h2 {font-size:14pt; color:#A31481; margin:12pt 5%}
+h3 {color:#A31481; text-decoration:underline}
+h4, em {font-weight:bold; text-indent:6%; margin:20pt 5pt 5pt; text-decoration:underline}
+p.petit {font-size:10pt}
+p {text-indent:8%; margin:5pt 5%}
+div.legal {background-color:#CCC; border: double red}
+table p {text-indent:0; margin:5pt}
+td.boite {border-style:double}
+button.danger {background-color:#000;color:#f00}
+button.bidule {background-color:#ff0;color:#f00}
+.centre {margin-left:auto; margin-right:auto; text-align:center}
+.gauche p {text-align:left}
+.boitegauche {border-style:double}
+.boitegauche p {text-align:left}
+/*.antoine {font-size:9pt; color:#6F0; background-color:#090}*/
+.antoine {font-size:9pt; color:#C30; background-color:#3C3}
+table.data td {vertical-align:top;text-align:left}
+/*body.prem {background-image:url("MTrocEnTete.jpeg");background-repeat:repeat-x;background-position:top}
+body.prem div.legal {background-image:none}*/
+li.none {list-style-type:none;margin-bottom:1.5ex}
